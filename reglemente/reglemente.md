@@ -233,7 +233,7 @@ Eftersom IsF och IsB delar fana framför IsF den endast jämna år.
 # §5 Sektionens studerandeskyddsombud (SSO)
 
 ## §5.1 Allmänt
-SSO fungerar som sektionens oberoende stöd och skydd för studenter vid KTH Flemingsberg och har tystnadsplikt.
+Studerandeskyddsombudet (SSO) fungerar som sektionens oberoende stöd och skydd för alla studenter på KTH Flemingsberg och har tystnadsplikt enligt gällande regelverk. Studerandeskyddsombud ska fungera som sektionens oberoende skydd för alla studenter på skolan.
 
 ## §5.2 Sammansättning
 SSO utgörs av en (1) ansvarig person.
