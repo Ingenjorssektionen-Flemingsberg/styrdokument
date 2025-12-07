@@ -1,4 +1,4 @@
-<!-- Stadgar för Ingenjörssektionen Flemingsberg [Version 11.0, 2025-05-23]-->
+<!-- Stadgar för Ingenjörssektionen Flemingsberg [Version 11.0, 2025-05-23] -->
 # §1 Allmänt
 
 ## §1.1 Namn
